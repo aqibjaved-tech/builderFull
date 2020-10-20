@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="builder" uuid="413863cb-6d80-4952-9b1c-5a5cf87bd364">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://ze25twcox4llx7t8.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/exc_web_builder</jdbc-url>
+    </data-source>
+  </component>
+</project>
