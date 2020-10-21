@@ -52,7 +52,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://builder.local'),
+    'url' => env('APP_URL', 'https://excshops.com'),
 
     'asset_url' => env('ASSET_URL', null),
 
